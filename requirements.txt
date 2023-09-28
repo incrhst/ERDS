@@ -1,0 +1,4 @@
+requests
+environs
+ipdb
+sendgrid
