@@ -3,7 +3,7 @@
 > Warning: This is "almost-works-ware". It is scheduled to be "works-ware" by mid October 2023.
 
 ## Purpose:
-Provide the simplest possible email distribution list. An authorised user sends an email to single email address and this triggers a script which does the rest of distribution. Theh final version will retrieve the email list using the API of the Breeze Church Management System.
+Provide the simplest possible email distribution list. An authorised user sends an email to a single email address and this triggers a script which does the rest of distribution. The final version will retrieve the email list using the API of the Breeze Church Management System.
 
 ## Assumptions:
 
